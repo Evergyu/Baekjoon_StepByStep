@@ -1,1 +1,3 @@
-# Baekjoon_Step-By-Step-Problem
+# 백준 "단계별로 풀어보기" 입니다.
+
+- 코드 설명은 블로그 창설 예정
